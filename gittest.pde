@@ -5,5 +5,8 @@ void setup(){
 
 void draw(){
   // change number 1
+  // colour changed here
+  fill(255,255,0);
+  noStroke();
   ellipse(30,30, 40,40);
 }
